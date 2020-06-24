@@ -2,13 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello world!"
+      "title": "hello world!",
+      "userName": "Jorge",
+      "userLastName": "Perez",
+      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvGbfnYcCWLB505FNa8JQIJ77h_hN5W_SXKA&usqp=CAU",
+      "date": "21/04/2020"
     }
-    
-    
-    
-    
-    
     
   ],
   "profile": {
