@@ -9,24 +9,6 @@
       "date": "07/01/2020",
       
     },
-     {
-      "id": 2,
-      "title": "hello world",
-      "userName": "Jorge",
-      "userLastName": "Diaz",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSvGbfnYcCWLB505FNa8JQIJ77h_hN5W_SXKA&usqp=CAU",
-      "date": "12/05/2020",
-      
-    },
-    {
-      "id": 3,
-      "title": "hello world",
-      "userName": "Pedro",
-      "userLastName": "Jofre",
-      "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMio5UHQKuvdPkvHD4wLt8lJbf6f4JQCUUQA&usqp=CAU",
-      "date": "22/04/2020",
-      
-    },
 
   ],
   "profile": {
